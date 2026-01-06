@@ -15,7 +15,7 @@ Analyzed an airline database containing multiple tables with over a 50,000 recor
 - Python (sqlite3, Pandas,Matplotlib, Seaborn)  
 - Data storytelling & insights  
 
-**Notebook:** [Airline Analysis Notebook](./Airline_SQL_Project.ipynb)  
+**Airline Analysis  Notebook:**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/Airline_project.ipynb
 ) 
@@ -34,7 +34,7 @@ Analyzed an HR dataset of 1480 records using Python (Pandas, Matplotlib, Seaborn
 - Data cleaning ,EDA, genrating KPIs and visualization  
 - Insights & recommendations  
 
-**Notebook:** [HR Analytics Notebook](./HR_Analytics_Project.ipynb)  
+**HR Analytics Notebook:** 
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/HR_Analytics.ipynb
 )
