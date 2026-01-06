@@ -17,8 +17,8 @@ Analyzed an airline database containing multiple tables with over a 50,000 recor
 
 **Notebook:** [Airline Analysis Notebook](./Airline_SQL_Project.ipynb)  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/HR_Analytics.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/Airline_project.ipynb
+) 
 
 **Dataset:** [Download from Google Drive](https://drive.google.com/file/d/1P1I_qDZy2ZAxhM4F9mlpmcHTrikMDJq8/view?usp=drive_link)
 
@@ -36,7 +36,7 @@ Analyzed an HR dataset of 1480 records using Python (Pandas, Matplotlib, Seaborn
 
 **Notebook:** [HR Analytics Notebook](./HR_Analytics_Project.ipynb)  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/Airline_project.ipynb
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/HR_Analytics.ipynb
 )
 
 **Dataset:** [Download from Google Drive](https://drive.google.com/file/d/1QiW0qENKoFde81KFa5yn7MitEwwX8Jk4/view?usp=drive_link)
