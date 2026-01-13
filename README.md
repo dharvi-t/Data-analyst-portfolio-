@@ -1,11 +1,18 @@
  # 📊 Data Analytics Portfolio — Dharvi Tomar
 
 This repository contains my projects 
-Each project is end-to-end, including problem statement, SQL/Python code, analysis, and recommendations.
+Each project is end-to-end, including problem statement, SQL/Python code, analysis,powerBi(dax,measeaures) and recommendations.
 
 ---
+## 📊 Project 1: Ecommerce SQL Case Study + powerBi(visualization)
+- have readme files for both sql and powerbi check that
+- End-to-end analytics project using SQL and Power BI
+- Focus on revenue analysis, product performance, and customer lifetime value
+- Includes star schema modeling, DAX measures, and executive dashboard
 
-## ✈️ Project 1: Airline Delay Analysis (SQL + Python)
+📁 [View Project](./Ecommerce_sql_case_study)
+
+## ✈️ Project 2: Airline Delay Analysis (SQL + Python)
 
 **Overview:**  
 Analyzed an airline database containing multiple tables with over a 50,000 records in total using Python (Pandas, Matplotlib, Seaborn, SQLite3) in Google Colab to explore various aspects of airline operations, including aircraft capacity, ticket sales, revenue trends, fare conditions, and occupancy rates, aiming to identify areas for improving profitability and addressing challenges.
@@ -24,7 +31,7 @@ Analyzed an airline database containing multiple tables with over a 50,000 recor
 
 ---
 
-## 👩‍💼 Project 2: HR Analytics (Python)
+## 👩‍💼 Project 3: HR Analytics (Python)
 
 **Overview:**  
 Analyzed an HR dataset of 1480 records using Python (Pandas, Matplotlib, Seaborn) in Google Colab to identify key drivers of employee attrition, potentially informing targeted strategies to improve employee retention and reduce turnover.
