@@ -1,0 +1,6 @@
+payment_id,payment_method,payment_status
+1,UPI,SUCCESS
+2,"Credit Card",SUCCESS
+3,"Debit Card",SUCCESS
+4,"Net Banking",SUCCESS
+5,UPI,FAILED
