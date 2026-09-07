@@ -1,10 +1,31 @@
- # 📊 Data Analytics Portfolio — Dharvi Tomar
+# 📊 Data Analytics Portfolio — Dharvi Tomar
 
-This repository contains my projects 
-Each project is end-to-end, including problem statement, SQL/Python code, analysis,powerBi(dax,measeaures) and recommendations.
+Welcome to my Data Analytics portfolio.
+
+This repository contains end-to-end analytics projects covering **SQL, Python, Excel, Power BI, DAX, data modeling, and Microsoft Fabric**.
+
+Each project focuses on solving a practical business problem through data preparation, analysis, visualization, and actionable insights.
 
 ---
-## 📊 Project 1: Ecommerce SQL Case Study + powerBi(visualization)
+## 📊 Project 1: Microsoft Fabric End-to-End Sales Analytics
+
+**Overview:**  
+Built an end-to-end sales analytics solution using Microsoft Fabric, implementing a Medallion Architecture (Bronze, Silver, Gold) for data ingestion and transformation. Used Fabric Pipelines, PySpark, Delta Lake, SQL Warehouse, star schema modeling, DAX, Semantic Model, and Direct Lake Power BI reporting to transform raw sales data into business-ready insights.
+
+**Key Skills:**
+
+- Microsoft Fabric (Lakehouse, Pipelines, Warehouse, onelake ,Data Factory)
+- PySpark & Delta Lake
+- SQL / T-SQL
+- Medallion Architecture
+- Star Schema & Semantic Modeling
+- DAX & Power BI (Direct Lake)
+- Data Engineering & BI
+
+**[View Project](./fabric_Sales_Analytics_solution/)**
+**Dataset:**
+
+## 📊 Project 2: Ecommerce SQL Case Study + powerBi(visualization)
 - have readme files for both sql and powerbi check that
 - End-to-end analytics project using SQL and Power BI
 - Focus on revenue analysis, product performance, and customer lifetime value
@@ -12,14 +33,14 @@ Each project is end-to-end, including problem statement, SQL/Python code, analys
 
 📁 [View Project](./Ecommerce_sql_case_study)
 
-## ✈️ Project 2: Airline Delay Analysis (SQL + Python)
+## ✈️ Project 3: Airline Delay Analysis (SQL + Python)
 
 **Overview:**  
 Analyzed an airline database containing multiple tables with over a 50,000 records in total using Python (Pandas, Matplotlib, Seaborn, SQLite3) in Google Colab to explore various aspects of airline operations, including aircraft capacity, ticket sales, revenue trends, fare conditions, and occupancy rates, aiming to identify areas for improving profitability and addressing challenges.
 
 **Key Skills:**  
 - SQL (JOIN, GROUP BY, Aggregations)  
-- Python (sqlite3, Pandas,Matplotlib, Seaborn)  
+- Python (sqlite3, Pandas ,Matplotlib, Seaborn)  
 - Data storytelling & insights  
 
 **Airline Analysis  Notebook:**
@@ -31,7 +52,7 @@ Analyzed an airline database containing multiple tables with over a 50,000 recor
 
 ---
 
-## 👩‍💼 Project 3: HR Analytics (Python)
+## 👩‍💼 Project 4: HR Analytics (Python)
 
 **Overview:**  
 Analyzed an HR dataset of 1480 records using Python (Pandas, Matplotlib, Seaborn) in Google Colab to identify key drivers of employee attrition, potentially informing targeted strategies to improve employee retention and reduce turnover.
