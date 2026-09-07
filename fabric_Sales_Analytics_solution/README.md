@@ -1,4 +1,5 @@
-# End to End Microsoft Fabric Sales Analytics solution 
+# End-to-End Sales Analytics in Microsoft Fabric
+
 This is a complete, hands-on Sales Analytics project built inside Microsoft Fabric, my first step towards my fabric journey to move past theoretical learning and actually build something production-ready real-world enterprise data pipeline.
 
 The project automates raw data ingestion, cleans and transforms it using PySpark, models it into a high-performance Star Schema, secures it with Row-Level Security (RLS), and deploys it via a Power BI Fabric App.
@@ -67,4 +68,3 @@ Instead of just building the dashboard, I analyzed the final data to see what st
 
 ---
 *Special thanks to Mansi Goel for the hands-on series! Her teaching style helped me focus on troubleshooting, writing my own code, and understanding real corporate workflows.*
-
