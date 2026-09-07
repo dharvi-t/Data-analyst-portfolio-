@@ -22,8 +22,8 @@ Built an end-to-end sales analytics solution using Microsoft Fabric, implementin
 - DAX & Power BI (Direct Lake)
 - Data Engineering & BI
 
-**[View Project](./fabric_Sales_Analytics_solution/)**
-**Dataset:**
+**[📁 View Project](./fabric_Sales_Analytics_solution/)**
+**[📊 Recorded live dashboard interaction video](https://drive.google.com/file/d/1nLmtZD51lssNfkJInAa-9WPpo7UjpuTa/view?usp=drive_link)**
 
 ## 📊 Project 2: Ecommerce SQL Case Study + powerBi(visualization)
 - have readme files for both sql and powerbi check that
