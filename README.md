@@ -42,7 +42,7 @@ I specialize in transforming raw, unstructured enterprise data into automated ET
 | # | Project Name | Domain | Core Tech Stack | Key Deliverables & Highlights | Links |
 | :-: | :--- | :--- | :--- | :--- | :-: |
 | **01** | **[Microsoft Fabric Sales Analytics](./fabric_Sales_Analytics_solution/)** | Sales & Retail | Fabric, PySpark, Synapse DW, Direct Lake, RLS | Medallion Architecture (Bronze/Silver/Gold), Star Schema, Direct Lake BI App | [📁code](./fabric_Sales_Analytics_solution/) \| [🎥 Video](https://drive.google.com/file/d/1nLmtZD51lssNfkJInAa-9WPpo7UjpuTa/view?usp=drive_link) |
-| **02** | **[Fabric HR Attrition Analytics](./hr_attrition_analytics/)** | Human Resources | Dataflows Gen2, OneLake CLS, Dynamic RLS, DAX | 1,470 records, OneLake CLS security, 35.8% youth attrition insights | [📁 Code](./hr_attrition_analytics/) \| [📂 Drive](https://drive.google.com/drive/folders/1Ct98w7HjS-Vmq32LhPIxLMyoJgmw5hJB?usp=drive_link) |
+| **02** | **[Fabric HR Attrition Analytics](./fabric_hr_attrtion/)** | Human Resources | Dataflows Gen2, OneLake CLS, Dynamic RLS, DAX | 1,470 records, OneLake CLS security, 35.8% youth attrition insights | [📁 Code](./hr_attrition_analytics/) \| [📂 Drive](https://drive.google.com/drive/folders/1Ct98w7HjS-Vmq32LhPIxLMyoJgmw5hJB?usp=drive_link) |
 | **03** | **[Ecommerce SQL Case Study](./Ecommerce_sql_case_study)** | E-Commerce | MySQL, Power BI, DAX, Star Schema | 7,000+ orders, CLV & AOV analysis, 98% repeat customer revenue insight | [📁 Code](./Ecommerce_sql_case_study) |
 | **04** | **[Airline Delay & Operations](./Airline_project.ipynb)** | Aviation | SQL, Python, SQLite, Pandas, Seaborn | 50,000+ records, occupancy rates, ticket sales & revenue EDA | [⚡ Colab](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/Airline_project.ipynb) \| [📊 Data](https://drive.google.com/file/d/1P1I_qDZy2ZAxhM4F9mlpmcHTrikMDJq8/view?usp=drive_link) |
 | **05** | **[HR Attrition Analysis (Python)](./HR_Analytics.ipynb)** | HR Analytics | Python, Pandas, Matplotlib, Seaborn | 1,480 employee records, exploratory data analysis & retention strategy | [⚡ Colab](https://colab.research.google.com/github/dharvi-t/Data-analyst-portfolio-/blob/main/HR_Analytics.ipynb) \| [📊 Data](https://drive.google.com/file/d/1QiW0qENKoFde81KFa5yn7MitEwwX8Jk4/view?usp=drive_link) |
@@ -75,7 +75,7 @@ Engineered a low-code HR analytics capstone project analyzing 1,470 employee rec
 * **Reporting & Insights:** Developed a 2-page interactive Power BI report (**Overview** & **Deep Dive**) featuring Decomposition Trees and KPI cards, deployed as a Fabric App (`Ws_HR_app`).
 * **Key Insights:** Identified an overall 16.1% attrition rate, with severe turnover spikes among **18–25 age group employees (35.8%)**, **OverTime staff (31.0%)**, and the **under ₹3k salary band (28.6%)**.
 
-🔗 **[📁 View Project Folder](./hr_attrition_analytics/)** \| **[📂 Google Drive Project Assets & Video Demo](https://drive.google.com/drive/folders/1Ct98w7HjS-Vmq32LhPIxLMyoJgmw5hJB?usp=drive_link)**
+🔗 **[📁 View Project Folder](./fabric_hr_attrtion/)** \| **[📂 Google Drive Project Assets & Video Demo](https://drive.google.com/drive/folders/1Ct98w7HjS-Vmq32LhPIxLMyoJgmw5hJB?usp=drive_link)**
 
 ---
 
