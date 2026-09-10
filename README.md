@@ -79,5 +79,5 @@ Analyzed an HR dataset of 1480 records using Python (Pandas, Matplotlib, Seaborn
 ---
 
 ## 📌 About
-This portfolio demonstrates my skills in SQL, Python, data cleaning, visualization, EDA ,KPIs and business insights.  
+This portfolio demonstrates my skills in SQL, Python, Microsoft Fabric, Power BI data cleaning, visualization, EDA ,KPIs and business insights.  
 
