@@ -4,7 +4,7 @@ An end-to-end HR analytics solution built inside Microsoft Fabric as part of my 
 
 This project analyzes 1,470 employee records (IBM HR dataset) to uncover key drivers of employee turnover. It automates data ingestion using Dataflows Gen2, stores data in a Fabric Lakehouse, secures sensitive compensation fields using Column-Level Security (CLS) in OneLake, and deploys an interactive 2-page Power BI dashboard via a Microsoft Fabric App.
 
-📂 **[Access Project Interactive Video Demo on Google Drive](https://drive.google.com/file/d/1BK5MqvKiUcdXAX86SNbksH1ULWVdPDJw/view?usp=drive_link)**
+📂 **[Access Project Interactive Video Demo on Google Drive](https://drive.google.com/file/d/1Bou_eclAofH5jPqhLWjPq3xY1R_UtRtS/view?usp=sharing)**
 
 ---
 
